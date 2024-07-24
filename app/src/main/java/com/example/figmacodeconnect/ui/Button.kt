@@ -13,7 +13,7 @@ fun MyButton(
     }
 }
 
-@FigmaConnect(url = "https://www.figma.com/design/4bMt5JcjzY8zWs00FARsMw/Material-3-Design-Kit-(Community)?node-id=53923-27633&m=dev")
+@FigmaConnect(url = "https://www.figma.com/design/4bMt5JcjzY8zWs00FARsMw/Material-3-Design-Kit-(Community)?node-id=53923-27460&m=dev")
 class ButtonDoc {
     @Composable
     fun ButtonSnippet() {
